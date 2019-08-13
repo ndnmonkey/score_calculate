@@ -62,3 +62,4 @@ print(list_total)
 name = ['kq','ps','zswc','sjbg']
 test = pd.DataFrame(columns=name,data=list_total)
 test.to_csv('C:/Users/zhengyong/Desktop/2.csv')
+print(name)
